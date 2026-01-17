@@ -1,0 +1,28 @@
+.navbar {
+  height: 60px;
+  width: 100%;
+  background: #1a1f36;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-right a {
+  margin-left: 20px;
+  color: #d8d8d8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-right a:hover {
+  color: white;
+}
