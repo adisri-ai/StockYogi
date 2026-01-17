@@ -1,0 +1,18 @@
+.stock-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  text-align: center;
+  transition: 0.2s;
+}
+
+.stock-card:hover {
+  transform: translateY(-3px);
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 600;
+  color: #1a73e8;
+}
